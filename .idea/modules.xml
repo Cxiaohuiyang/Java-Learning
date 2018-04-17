@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/IntegerOrint/IntegerOrint.iml" filepath="$PROJECT_DIR$/IntegerOrint/IntegerOrint.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Learning.iml" filepath="$PROJECT_DIR$/Java-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/Synchronized/Synchronized.iml" />
     </modules>
   </component>
 </project>
